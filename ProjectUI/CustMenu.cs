@@ -2,9 +2,8 @@ using System;
 using System.Collections.Generic;
 using ProjectUI;
 using ProjectModels;
-using Project_1;
 
-namespace UI
+namespace ProjectUI
 {
     public class CustMenu : IMenu{
     public void Menu(){

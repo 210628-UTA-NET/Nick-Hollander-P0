@@ -1,10 +1,11 @@
 ﻿using System;
 using ProjectModels;
+using ProjectUI;
 
 namespace ProjectUI{
     class Program{
         static void main(string[]args){
-            IMenu CustomerMenu = new CustMenu();
+            IMenu CustomerMenu = new MainMenu();
             bool repeat = true;
             MenuType currentMenu = MenuType.MainMenu;
 
