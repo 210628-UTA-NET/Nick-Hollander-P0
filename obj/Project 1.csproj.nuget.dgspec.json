@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\users\\nickh\\onedrive\\desktop\\C# projects\\Project 1\\Project 1.csproj": {}
+    "C:\\Users\\nickh\\OneDrive\\Desktop\\C# projects\\Project 1\\Project 1.csproj": {}
   },
   "projects": {
-    "C:\\users\\nickh\\onedrive\\desktop\\C# projects\\Project 1\\Project 1.csproj": {
+    "C:\\Users\\nickh\\OneDrive\\Desktop\\C# projects\\Project 1\\Project 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\users\\nickh\\onedrive\\desktop\\C# projects\\Project 1\\Project 1.csproj",
+        "projectUniqueName": "C:\\Users\\nickh\\OneDrive\\Desktop\\C# projects\\Project 1\\Project 1.csproj",
         "projectName": "Project 1",
-        "projectPath": "C:\\users\\nickh\\onedrive\\desktop\\C# projects\\Project 1\\Project 1.csproj",
+        "projectPath": "C:\\Users\\nickh\\OneDrive\\Desktop\\C# projects\\Project 1\\Project 1.csproj",
         "packagesPath": "C:\\Users\\nickh\\.nuget\\packages\\",
-        "outputPath": "C:\\users\\nickh\\onedrive\\desktop\\C# projects\\Project 1\\obj\\",
+        "outputPath": "C:\\Users\\nickh\\OneDrive\\Desktop\\C# projects\\Project 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nickh\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -9,6 +9,7 @@ namespace Project_1
         public string Address{get; set;}
         public string Contact{get; set;}
         private List<string> Orders = new List<string>();
+        public List<Customer> Customers = new List<Customer>();
     }
     public class StoreFront
     {
