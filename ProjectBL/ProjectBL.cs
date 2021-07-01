@@ -12,6 +12,11 @@ namespace ProjectBL
             _repo = p_repo;
         }
 
+        public Customer AddCustomer(Customer p_cust)
+        {
+            p_cust.Name = p_cust.Name.ToUpper();
+            return _repo.AddCustomer(p_cust);
+        }
 
         List<Customer> IProjectBL.GetCustomers()
         {
