@@ -8,5 +8,7 @@ namespace ProjectBL{
     public interface IProjectBL{
 
         List<Customer> GetCustomers();
+
+        Customer AddCustomer(Customer p_cust);
     }
 }

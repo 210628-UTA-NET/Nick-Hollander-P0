@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ProjectDL\ProjectDL.csproj" />
+    <ProjectReference Include="..\ProjectModels\ProjectModels.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
