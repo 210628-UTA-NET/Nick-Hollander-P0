@@ -4,6 +4,7 @@ namespace ProjectUI{
     {
         MainMenu,
         CustMenu,
+        AddCustomerMenu,
         Exit
     }
     public interface IMenu{

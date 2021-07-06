@@ -3,7 +3,7 @@ using ProjectModels;
 using ProjectUI;
 
 namespace ProjectUI{
-    class Program{
+   public class Program{
         static void main(string[]args){
             IMenu CustomerMenu = new MainMenu();
             bool repeat = true;
@@ -12,7 +12,7 @@ namespace ProjectUI{
             while (repeat)
             {
                 Console.Clear();
-                CustomerMenu.Menu;
+                CustomerMenu.Menu();
                 currentMenu = CustomerMenu.YourChoice();
 
                 switch (currentMenu)

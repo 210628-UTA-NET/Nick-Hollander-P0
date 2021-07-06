@@ -11,3 +11,4 @@ namespace ProjectModels
         public string Contact{get; set;}
         private List<string> Orders = new List<string>();
     }
+}
