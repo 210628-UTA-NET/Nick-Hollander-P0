@@ -5,6 +5,9 @@ namespace ProjectUI{
         MainMenu,
         CustMenu,
         AddCustomerMenu,
+        ShowCustMenu,
+        StoreMenu,
+        AddStoreMenu,
         Exit
     }
     public interface IMenu{

@@ -1,7 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Project 1\Project 1.csproj" />
     <ProjectReference Include="..\ProjectBL\ProjectBL.csproj" />
     <ProjectReference Include="..\ProjectModels\ProjectModels.csproj" />
   </ItemGroup>
